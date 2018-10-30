@@ -1,0 +1,32 @@
+_repo: Dwight-L-Moody-Hanen-elamansa-ja-vaikutuksensa_58161
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Skutnabb, Akseli
+    gutenberg_agent_id: '49801'
+    url: http://www.gutenberg.org/2009/agents/49801
+creator:
+  authors:
+  - agent_name: Northrop, Davenport
+    gutenberg_agent_id: '49800'
+    url: http://www.gutenberg.org/2009/agents/49800
+  - agent_name: Moody, William Vaughn
+    birthdate: 1869
+    deathdate: 1910
+    gutenberg_agent_id: '33006'
+    url: http://www.gutenberg.org/2009/agents/33006
+description: ''
+gutenberg_issued: '2018-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58161'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Dwight L. Moody
+
+  Hänen elämänsä ja vaikutuksensa'
+url: http://www.gutenberg.org/ebooks/58161
